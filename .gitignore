@@ -3,3 +3,5 @@
 .DS_Store
 data/dev.json
 data/train.json
+model/pytorch_pretrained_model/pytorch_model.bin
+output/logs
